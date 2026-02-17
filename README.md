@@ -1,29 +1,40 @@
 # Hi, I'm Nour-Eddin 👋 
 
-### 🚀 Software Engineer & DevOps Specialist | 1337 Student
-I am a technical problem-solver at the intersection of **Infrastructure (DevOps)** and **Financial Markets**. Currently refining my skills at **1337 (42 Network)**, I focus on building resilient, high-availability systems.
+### 🏗️ Software Engineer | DevOps & Infrastructure Specialist
+I am a system-focused developer currently in the final milestones of my networking and infrastructure studies at **1337 (42 Network)**. I specialize in building, monitoring, and scaling resilient environments for complex applications.
 
 ---
 
-### 🛠 Tech Stack & Tools
-- **Languages:** C, C++, Shell (Bash/Zsh)
-- **DevOps & Infrastructure:** Docker, Docker-Compose, Nginx, Virtualization
-- **Systems:** Network Security, System Administration, Web Servers
-- **Finance:** Algorithmic Trading Logic, Risk Management, Market Analysis
+### 🛠️ Technical Stack
+- **Core:** C, C++, Shell Scripting (Bash/Zsh)
+- **Virtualization & Orchestration:** Docker, Docker-compose, Microservices Architecture
+- **Observability & Logging:** ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana
+- **Web & Proxy:** Nginx (Load Balancing, Reverse Proxy), WordPress, MariaDB
+- **Networking:** Security, Protocol Implementation, System Administration
 
 ---
 
-### 🏆 Key Achievements
-- **🥈 2nd Place - Championnat de la Bourse 2025:** Recognized by the Bourse de Casablanca for excellence in financial market strategy.
-- **📈 Funded Trader:** Successfully managed institutional capital through prop firm evaluations.
+### 📂 Major Projects
+
+#### 📈 [TradeHub](https://github.com/your-username/tradehub)
+*Technical Product Owner & Infrastructure Lead*
+A high-availability virtual trading platform built with a microservices architecture. My focus is on the reliability and scalability of the backend services.
+
+**Current Implementation:**
+- Containerized environment using **Docker**.
+- Real-time data handling and system-wide logging.
+
+**Infrastructure Roadmap (Next Phases):**
+- [ ] Integration of a full **ELK Stack** for centralized log management.
+- [ ] Implementation of a dedicated **Prometheus & Grafana** monitoring stack for real-time system health.
+- [ ] Automated CI/CD pipelines for seamless deployment.
+
+#### 🐳 [Inception](https://github.com/your-username/inception)
+A deep dive into system administration, creating a multi-service infrastructure (Nginx, MariaDB, WordPress) from scratch using Docker.
+
+#### 🌐 [Webserv](https://github.com/your-username/webserv)
+An HTTP/1.1 server built in **C++** from the ground up, focusing on non-blocking I/O and configuration parsing.
 
 ---
 
-### 📂 Featured Projects
-- **TradeHub (Work in Progress):** Product Owner & Lead Developer for a virtual trading platform.
-- **Inception:** A deep dive into system administration and virtualization using Docker.
-- **Webserv:** A high-performance HTTP server built from scratch in C++.
-
----
-
-📫 **Let's Connect:** [Your LinkedIn Link Here]
+📫 **Let's Connect:** [Your LinkedIn Profile Link]
