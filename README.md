@@ -1,38 +1,38 @@
-# Hi, I'm Nour-Eddin 👋 
+# Hi, I'm Nour-Eddin
 
-### 1337 Graduate | DevOps Engineer 
-Focusing on high-availability infrastructure, automated scaling, and cloud-native security.
+### 1337 Graduate | DevOps
+Focusing on high-availability infrastructure, automated scaling, and cloud , security.
 
 ---
 
-### 🛠️ Technical Stack
+###  Technical Stack
 
-* **Languages:** C, C++, Shell Scripting (Bash/Zsh)
-* **DevOps & Automation:** CI/CD Pipelines, Infrastructure as Code (IaC), Ansible
+* **Languages:** C, C++, ts(nest), Shell Scripting
+* **DevOps & Automation:** CI/CD Pipelines, Infrastructure as Code (IaC)
 * **Cloud & Virtualization:** AWS, Docker, Docker-compose, Microservices Architecture
 * **Observability:** ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana
 * **Web & Proxy:** Nginx (Load Balancing, Reverse Proxy), WordPress
-* **Databases:** MariaDB, Redis, PostgreSQL
+* **Databases:** MariaDB, Redis, PostgreSQL, prisma
 * **Networking:** Protocol Implementation (HTTP/1.1), Network Security, System Administration
 
 ---
 
-### 📂 Core Projects
+###  Core Projects
 
-#### 📈 [TradeHub](https://github.com/your-username/tradehub)
+#### 📈 [TradeHub](https://github.com/Nour-Eddin-01/TradeHub)
 **Lead DevOps & Infrastructure**
-A virtual trading platform built on a resilient microservices architecture.
-* **Stack:** Docker, ELK Stack, Prometheus, Grafana, Redis, CI/CD Automation.
-* **Focus:** Automated deployment, real-time observability, and centralized logging for distributed systems.
+A virtual trading platform with sotial features built on a resilient architecture.
+* **Stack:** Docker, ELK Stack, Prometheus, Grafana, Redis, CI/CD Automation. nest, PostgreSQL, prisma
+* **Focus:** Automated deployment, real-time observability, and centralized logging and monitoring for distributed systems.
 
-#### 🐳 [Inception](https://github.com/your-username/inception)
+#### 🐳 [Inception](https://github.com/Nour-Eddin-01/inception)
 **System Administration & Virtualization**
 Complete infrastructure design using Docker, orchestrating a secured environment for Nginx, MariaDB, and WordPress.
 
-#### 🌐 [Webserv](https://github.com/your-username/webserv)
+#### 🌐 [Webserv](https://github.com/Nour-Eddin-01/WebServ)
 **Network Programming**
 A high-performance HTTP/1.1 server written from scratch in C++, featuring non-blocking I/O and concurrent request handling.
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/your-profile-link)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nour-eddin-ait-bouguarri-499648369/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BT3xyAYu0QjSiEHltC98V6w%3D%3D)
