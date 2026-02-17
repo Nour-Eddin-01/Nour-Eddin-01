@@ -35,4 +35,4 @@ A high-performance HTTP/1.1 server written from scratch in C++, featuring non-bl
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nour-eddin-ait-bouguarri-499648369/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BT3xyAYu0QjSiEHltC98V6w%3D%3D)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nour-eddin-ait-bouguarri/)
