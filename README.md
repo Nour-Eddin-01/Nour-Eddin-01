@@ -4,7 +4,7 @@ Backend Engineer | Systems & DevOps | Fintech & API Systems
 
 menoureddin972@gmail.com | Morocco
 
-LinkedIn | GitHub
+[linkden](https://www.linkedin.com/in/nour-eddin-ait-bouguarri)
 
 ---
 
