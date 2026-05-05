@@ -1,68 +1,91 @@
-# Hi there, I'm Nour-Eddin 
+# NOUR-EDDINE AIT BOUGUARRI
 
-###  1337/42 Network Graduate | Software Engineer | DevOps 
+Backend Engineer | Systems & DevOps | Fintech & API Systems
 
-I am a passionate software engineer with a strong foundation in low-level programming, system architecture, and modern web development.  
-I have successfully **completed the entire 42 Common Core curriculum**, mastering C, C++, algorithmic complexity, and system administration along the way.
+noureddin.aitbougarri@gmail.com | +212 655 068 541 | Marrakech, Morocco
 
-My focus is on building scalable, resilient infrastructure and high-performance applications.
-
----
-
-###  Technical Stack
-
-*   **Languages:** C, C++, TypeScript, Python, Bash
-*   **Backend:** NestJS, Node.js, Prisma, PostgreSQL, MariaDB, Redis
-*   **DevOps & Cloud:** Docker, Docker Compose, Kubernetes, ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, grafana, Nginx, CI/CD, terraform(IaC), AWS
-*   **Systems:** Linux Administration, Network Programming (TCP/IP, HTTP/1.1), Virtualization
+LinkedIn | GitHub
 
 ---
 
-###  Featured Projects
+## Summary
 
-Here are some of the key projects that define my journey:
+Software Engineer (1337/42 Network) specialized in backend systems, distributed architectures, and fintech-oriented API design, with experience building scalable backend platforms, real-time systems, and infrastructure-driven applications focused on reliability, security, and financial-grade system design, and a strong passion for fintech infrastructure, secure APIs, and high-performance backend systems handling critical data flows.
 
-#### 📈 [TradeHub](https://github.com/Nour-Eddin-01/tradehub)
-**Full-Stack Trading Platform with Real-time Observability**
-A virtual stock trading platform built with a resilient microservices-ready architecture.
-*   **Tech:** NestJS, React, PostgreSQL, Prisma, Redis, ELK Stack, Docker.
-*   **Highlights:**
-    *   Implemented full **ELK Stack** integration for real-time logging and monitoring.
-    *   Automated deployment.
+## Key Skills
 
-#### 🌐 [WebServ](https://github.com/Nour-Eddin-01/WebServ)
-**High-Performance HTTP/1.1 Server**
-A custom-built HTTP server written from scratch in C++98, mimicking the behavior of Nginx.
-*   **Tech:** C++, Socket Programming, Non-blocking I/O (`poll()`).
-*   **Highlights:**
-    *   Handles multiple concurrent clients using a single-threaded, event-driven architecture.
-    *   Robust configuration parsing and CGI support (Python/PHP).
-    *   Zero reliance on external HTTP libraries—pure implementation of the RFC protocols.
+### Backend & APIs
 
-#### 🐳 [Inception](https://github.com/Nour-Eddin-01/inception)
-**System Administration & Infrastructure Automation**
-A complete infrastructure virtualization project running multiple services in isolated containers.
-*   **Tech:** Docker, Alpine Linux, Nginx (TLS 1.3), MariaDB, WordPress.
-*   **Highlights:**
-    *   Setup of a strict Docker network with dedicated volumes.
-    *   Configuration of Nginx as a reverse proxy with self-signed SSL certificates.
-    *   Orchestration of services ensuring high availability and proper dependency management.
+Node.js, NestJS, REST APIs, WebSockets, Prisma, PostgreSQL, Redis
 
-#### 📊 [MNQ-Journal](https://github.com/Nour-Eddin-01/MNQ-Journal)
-**Offline-First Trading Journal**
-A privacy-focused, browser-based trading journal designed for detailed performance analysis.
-*   **Tech:** JavaScript (ES6+), LocalStorage API, Chart.js.
-*   **Highlights:**
-    *   **Zero-Server Architecture:** All data lives in the user's browser for maximum privacy.
-    *   **Advanced Analytics:** Automated calculation of Win Rate, R:R, and Equity Curves.
-    *   **Visualizations:** Interactive heatmaps for profitability by time and strategy radar charts.
+### Systems & Low-Level Engineering
+
+C, C++, TCP/IP, HTTP/1.1, socket programming, Linux, event-driven architecture (poll/select)
+
+### DevOps & Infrastructure
+
+Docker, Docker Compose, Kubernetes, CI/CD, Terraform, AWS, Nginx
+
+### Observability & Monitoring
+
+Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Loki
+
+### Security & Architecture Concepts
+
+JWT authentication, API security design, reverse proxies, TLS, service isolation, secure system architecture
 
 ---
 
-###  Get in Touch
+## Work Experience
 
-*   **LinkedIn:** [Nour-Eddin Ait Bouguarri](https://www.linkedin.com/in/nour-eddin-ait-bouguarri/)
-*   **Email:** [Check my GitHub Email]
+### TradeHub : Financial-Grade Backend & Real-Time Trading Platform
+
+- Designed RESTful APIs using NestJS for trading, portfolio management, authentication, and social features
+- Built real-time communication layer using WebSockets for live market interactions
+- Developed core financial engine including PnL calculation, risk constraints, and portfolio tracking logic
+- Designed secure authentication system using JWT-based access control
+- Implemented event-driven worker system for market data ingestion and scheduled processing
+- Structured and optimized PostgreSQL database with Prisma ORM
+- Built full observability stack (Prometheus, Grafana, Loki) for system monitoring and incident tracking
+- Containerized full platform using Docker & Docker Compose
+- Configured production-like infrastructure using Nginx reverse proxy and service routing
+
+### Webserv : HTTP/1.1 High-Performance Server (C++98)
+
+- Built a fully custom HTTP/1.1 server from scratch in C++98
+- Implemented event-driven architecture using poll() for non-blocking I/O
+- Designed complete HTTP request parsing and response handling system
+- Supported GET, POST, DELETE methods
+- Integrated CGI execution (Python & PHP support)
+- Managed multiple concurrent connections with memory-safe design
+
+### Inception : Secure Multi-Service Infrastructure
+
+- Built a containerized multi-service architecture using Docker
+- Configured Nginx reverse proxy with TLS 1.3 encryption
+- Designed isolated service networking using Docker networks
+- Managed persistent volumes and database services securely
+
+### MNQ Journal : Offline-First Trading Analytics System
+
+- Developed a privacy-focused trading journal with no backend dependency
+- Built analytics engine (Win Rate, Risk/Reward, Equity Curve analysis)
+- Integrated Chart.js for financial visualization dashboards
+- Designed offline-first architecture using browser LocalStorage
 
 ---
+
+## Accomplishments
+
+- 2nd Place : Casablanca Stock Exchange Trading Competition (2025)
+- Funded Trader : Earn2Trade (2 successful evaluations passed)
+
+## Education
+
+- 1337 UM6P (42 Network) Software Engineering
+- Faculty of Sciences Semlalia Applied Mathematics & Informatics
+- Baccalaureate Lycee Mohammed VI, Marrakech Science & Mathematics (SMB)
+- 2023 - Present
+- 2021 - 2023
+- 2020
 
