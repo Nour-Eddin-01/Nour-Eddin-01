@@ -2,7 +2,7 @@
 
 Backend Engineer | Systems & DevOps | Fintech & API Systems
 
-noureddin.aitbougarri@gmail.com | +212 655 068 541 | Marrakech, Morocco
+menoureddin972@gmail.com | Morocco
 
 LinkedIn | GitHub
 
@@ -74,18 +74,3 @@ JWT authentication, API security design, reverse proxies, TLS, service isolation
 - Designed offline-first architecture using browser LocalStorage
 
 ---
-
-## Accomplishments
-
-- 2nd Place : Casablanca Stock Exchange Trading Competition (2025)
-- Funded Trader : Earn2Trade (2 successful evaluations passed)
-
-## Education
-
-- 1337 UM6P (42 Network) Software Engineering
-- Faculty of Sciences Semlalia Applied Mathematics & Informatics
-- Baccalaureate Lycee Mohammed VI, Marrakech Science & Mathematics (SMB)
-- 2023 - Present
-- 2021 - 2023
-- 2020
-
