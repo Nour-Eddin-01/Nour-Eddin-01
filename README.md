@@ -1,76 +1,86 @@
-# NOUR-EDDINE AIT BOUGUARRI
+# Hi, I'm Nour-Eddine 👋
 
-Backend Engineer | Systems & DevOps | Fintech & API Systems
+### Backend, API & DevOps Engineer
 
-menoureddin972@gmail.com | Morocco
+I help startups and growing teams turn product requirements into **reliable backend systems, well-designed APIs, automated data workflows, and production-ready deployments**.
 
-[linkden](https://www.linkedin.com/in/nour-eddin-ait-bouguarri)
+Based in Morocco · Available for freelance and remote projects
 
----
-
-## Summary
-
-Software Engineer (1337/42 Network) specialized in backend systems, distributed architectures, and fintech-oriented API design, with experience building scalable backend platforms, real-time systems, and infrastructure-driven applications focused on reliability, security, and financial-grade system design, and a strong passion for fintech infrastructure, secure APIs, and high-performance backend systems handling critical data flows.
-
-## Key Skills
-
-### Backend & APIs
-
-Node.js, NestJS, REST APIs, WebSockets, Prisma, PostgreSQL, Redis
-
-### Systems & Low-Level Engineering
-
-C, C++, TCP/IP, HTTP/1.1, socket programming, Linux, event-driven architecture (poll/select)
-
-### DevOps & Infrastructure
-
-Docker, Docker Compose, Kubernetes, CI/CD, Terraform, AWS, Nginx
-
-### Observability & Monitoring
-
-Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Loki
-
-### Security & Architecture Concepts
-
-JWT authentication, API security design, reverse proxies, TLS, service isolation, secure system architecture
+[![Email](https://img.shields.io/badge/Email-menoureddin972%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:menoureddin972@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nour--Eddine_Ait_Bouguarri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-eddin-ait-bouguarri)
 
 ---
 
-## Work Experience
+## How I can help
 
-### TradeHub : Financial-Grade Backend & Real-Time Trading Platform
+- **Backend & API development** — REST APIs, real-time services, authentication, background workers, and third-party integrations
+- **Python & TypeScript applications** — FastAPI, Django, Node.js, and NestJS services built for maintainability and growth
+- **Database engineering** — PostgreSQL schema design, query optimization, migrations, caching, and Redis-backed workflows
+- **DevOps & deployments** — Dockerized applications, Linux server setup, Nginx, CI/CD pipelines, and cloud/VPS releases
+- **Cloud infrastructure** — Kubernetes workloads and reproducible infrastructure with Terraform
+- **Automation & data pipelines** — Web scraping, scheduled jobs, data ingestion, transformation, and API integrations
 
-- Designed RESTful APIs using NestJS for trading, portfolio management, authentication, and social features
-- Built real-time communication layer using WebSockets for live market interactions
-- Developed core financial engine including PnL calculation, risk constraints, and portfolio tracking logic
-- Designed secure authentication system using JWT-based access control
-- Implemented event-driven worker system for market data ingestion and scheduled processing
-- Structured and optimized PostgreSQL database with Prisma ORM
-- Built full observability stack (Prometheus, Grafana, Loki) for system monitoring and incident tracking
-- Containerized full platform using Docker & Docker Compose
-- Configured production-like infrastructure using Nginx reverse proxy and service routing
+## Core stack
 
-### Webserv : HTTP/1.1 High-Performance Server (C++98)
+| Area | Technologies |
+| --- | --- |
+| **Backend** | Python, FastAPI, Django, Node.js, NestJS, REST, WebSockets |
+| **Data** | PostgreSQL, Redis, Prisma, data ingestion and processing pipelines |
+| **DevOps** | Docker, Docker Compose, Linux, Nginx, CI/CD |
+| **Cloud & IaC** | AWS, VPS deployments, Kubernetes, Terraform |
+| **Observability** | Prometheus, Grafana, Loki, ELK Stack |
+| **Security** | JWT, TLS, reverse proxies, service isolation, API security |
 
-- Built a fully custom HTTP/1.1 server from scratch in C++98
-- Implemented event-driven architecture using poll() for non-blocking I/O
-- Designed complete HTTP request parsing and response handling system
-- Supported GET, POST, DELETE methods
-- Integrated CGI execution (Python & PHP support)
-- Managed multiple concurrent connections with memory-safe design
+## Selected work
 
-### Inception : Secure Multi-Service Infrastructure
+### TradeHub — Real-Time Trading Platform
 
-- Built a containerized multi-service architecture using Docker
-- Configured Nginx reverse proxy with TLS 1.3 encryption
-- Designed isolated service networking using Docker networks
-- Managed persistent volumes and database services securely
+A backend platform for trading, portfolio management, and live market interactions.
 
-### MNQ Journal : Offline-First Trading Analytics System
+- Designed NestJS REST APIs for authentication, portfolios, trading, and social features
+- Built WebSocket services for real-time market updates
+- Developed P&L calculations, risk constraints, and portfolio tracking logic
+- Created workers for market-data ingestion and scheduled processing
+- Structured PostgreSQL data with Prisma and added Redis-backed infrastructure
+- Containerized the platform and configured Nginx service routing
+- Added monitoring and incident visibility with Prometheus, Grafana, and Loki
 
-- Developed a privacy-focused trading journal with no backend dependency
-- Built analytics engine (Win Rate, Risk/Reward, Equity Curve analysis)
-- Integrated Chart.js for financial visualization dashboards
-- Designed offline-first architecture using browser LocalStorage
+### Webserv — HTTP/1.1 Server
 
----
+A custom high-performance HTTP server written from scratch in C++98.
+
+- Implemented non-blocking I/O and concurrent connections with `poll()`
+- Built HTTP request parsing, response handling, and GET, POST, and DELETE support
+- Added Python and PHP CGI execution
+- Focused on protocol fundamentals, memory safety, and reliable network behavior
+
+### Inception — Secure Container Infrastructure
+
+A production-style, multi-service environment built with Docker.
+
+- Configured Nginx as a reverse proxy with TLS 1.3
+- Isolated services through Docker networks
+- Managed persistent application and database volumes
+- Applied reproducible configuration and secure service boundaries
+
+### MNQ Journal — Trading Analytics
+
+A privacy-focused, offline-first trading journal.
+
+- Built analytics for win rate, risk/reward, and equity curves
+- Created financial visualization dashboards with Chart.js
+- Designed the product to work locally without a backend dependency
+
+## What you can expect
+
+1. **Clear scope** — We align on requirements, constraints, milestones, and success criteria.
+2. **Practical architecture** — I choose tools that fit the product instead of adding unnecessary complexity.
+3. **Visible progress** — You receive concise updates, reviewable changes, and documented decisions.
+4. **Production readiness** — Delivery includes deployment guidance, observability, security, and maintainable documentation.
+
+## Let's build something reliable
+
+Need a backend service, API integration, deployment pipeline, cloud/VPS setup, or automated data workflow?
+
+**Email:** [menoureddin972@gmail.com](mailto:menoureddin972@gmail.com)<br>
+**LinkedIn:** [Nour-Eddine Ait Bouguarri](https://www.linkedin.com/in/nour-eddin-ait-bouguarri)
