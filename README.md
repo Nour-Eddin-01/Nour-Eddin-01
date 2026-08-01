@@ -33,17 +33,31 @@ Based in Morocco · Available for freelance and remote projects
 
 ## Selected work
 
-### TradeHub — Real-Time Trading Platform
+### [TradeHub — Fintech Platform for Moroccan Investors](https://github.com/Nour-Eddin-01/tradehub-showcase)
 
-A backend platform for trading, portfolio management, and live market interactions.
+A complete fintech platform that brings virtual trading, portfolio management, market insights, financial news, and community features into one experience.
 
-- Designed NestJS REST APIs for authentication, portfolios, trading, and social features
-- Built WebSocket services for real-time market updates
-- Developed P&L calculations, risk constraints, and portfolio tracking logic
-- Created workers for market-data ingestion and scheduled processing
-- Structured PostgreSQL data with Prisma and added Redis-backed infrastructure
-- Containerized the platform and configured Nginx service routing
-- Added monitoring and incident visibility with Prometheus, Grafana, and Loki
+- Designed and built REST APIs for trading, portfolios, authentication, and social features
+- Developed real-time functionality with WebSockets and a financial engine for P&L, risk controls, and portfolio tracking
+- Built market-data workers and structured the PostgreSQL data layer with Prisma
+- Delivered the containerized platform, service routing, monitoring, and deployment environment
+
+**[View the public TradeHub showcase →](https://github.com/Nour-Eddin-01/tradehub-showcase)**
+
+### [Moroccan Financial Data — Reliable Market Data Pipeline](https://github.com/Nour-Eddin-01/moroccan-financial-data-showcase)
+
+A dependable data system for collecting, validating, processing, and storing Casablanca Stock Exchange market data.
+
+- Built the end-to-end Python pipeline from data collection to normalized PostgreSQL records
+- Added validation gates, raw-data preservation, deterministic normalization, and multi-page processing
+- Engineered idempotent and transactional database operations with traceable processing attempts and error handling
+- Developed read-only APIs, migrations, automated tests, and a reproducible Docker environment
+
+**[View the public Moroccan Financial Data showcase →](https://github.com/Nour-Eddin-01/moroccan-financial-data-showcase)**
+
+> These public repositories are product showcases. Their proprietary implementations are maintained privately.
+
+## Additional engineering work
 
 ### Webserv — HTTP/1.1 Server
 
@@ -62,14 +76,6 @@ A production-style, multi-service environment built with Docker.
 - Isolated services through Docker networks
 - Managed persistent application and database volumes
 - Applied reproducible configuration and secure service boundaries
-
-### MNQ Journal — Trading Analytics
-
-A privacy-focused, offline-first trading journal.
-
-- Built analytics for win rate, risk/reward, and equity curves
-- Created financial visualization dashboards with Chart.js
-- Designed the product to work locally without a backend dependency
 
 ## What you can expect
 
